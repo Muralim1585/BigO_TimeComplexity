@@ -1,2 +1,4 @@
 .venv/
 pypihelp.txt
+dist/
+*.egg-info/

@@ -1,5 +1,4 @@
 import timeit
-from time import time
 import numpy as np
 import pandas as pd
 import matplotlib.pylab as plt
